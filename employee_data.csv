@@ -1,0 +1,201 @@
+Employee ID,Employee Name,Department,Role,Skill Set,Experience Level,Availability,Preferred Shift,Contract Type,Hourly Rate/Salary,Working Hours,Productivity Score
+1,Ethan Miller,HR,Recruiter,"Onboarding, Recruitment, Employee relations",Senior,Part-time,Night,Contract,$94/hour,10,91.26
+2,Olivia Johnson,Customer Service,Customer Support Specialist,"Phone support, Customer service",Junior,Weekends only,Day,Full-time,$36/hour,5,50.58
+3,Noah Williams,Operations,Project Manager,"Process improvement, Logistics, Project management",Mid-level,Weekends only,Night,Freelance,$149/hour,10,82.78
+4,Ava Brown,Engineering,QA Engineer,Python,Entry-level,Part-time,Day,Freelance,$107/hour,5,51.39
+5,Liam Jones,Operations,Project Manager,Logistics,Junior,Part-time,Day,Full-time,$27/hour,10,86.86
+6,Isabella Garcia,Operations,Operations Manager,Process improvement,Entry-level,Monday-Friday 9am-5pm,Night,Contract,$136/hour,5,64.82
+7,Mason Rodriguez,Operations,Project Manager,"Logistics, Project management",Mid-level,Flexible,Day,Full-time,$43/hour,8,70.5
+8,Sophia Wilson,Sales,Sales Manager,"Negotiation, Salesforce",Senior,Part-time,Night,Contract,$129/hour,8,80.94
+9,William Martinez,Sales,Sales Representative,"Salesforce, Negotiation, Customer communication",Mid-level,Weekends only,Evening,Part-time,$53/hour,5,53.9
+10,Mia Anderson,Finance,Financial Analyst,"Accounting, Financial modeling",Junior,Flexible,Evening,Freelance,$67/hour,5,56.62
+11,James Taylor,Operations,Project Manager,"Logistics, Project management, Process improvement",Mid-level,Monday-Friday 9am-5pm,Day,Part-time,$40/hour,10,91.56
+12,Evelyn Thomas,Operations,Project Manager,"Logistics, Project management",Entry-level,Flexible,Day,Freelance,$71/hour,5,74.05
+13,Benjamin Moore,Customer Service,Customer Service Agent,"Phone support, Email etiquette, Customer service",Senior,Weekends only,Day,Freelance,$144/hour,8,86.46
+14,Abigail Jackson,Sales,Account Executive,"Customer communication, Salesforce",Junior,Flexible,Day,Contract,$62/hour,8,71.58
+15,Elijah White,HR,HR Generalist,Onboarding,Junior,Monday-Friday 9am-5pm,Night,Full-time,$32/hour,8,87.09
+16,Emily Harris,Sales,Sales Manager,Salesforce,Mid-level,Part-time,Evening,Freelance,$137/hour,10,84.49
+17,Lucas Martin,Finance,Financial Analyst,Accounting,Junior,Weekends only,Night,Part-time,$39/hour,10,85.4
+18,Harper Thompson,Sales,Sales Representative,Negotiation,Senior,Part-time,Day,Contract,$96/hour,5,66.37
+19,Alexander Garcia,Customer Service,Customer Service Agent,"Phone support, Email etiquette, Customer service",Entry-level,Weekends only,Night,Freelance,$75/hour,10,81.88
+20,Avery Davis,Customer Service,Customer Support Specialist,Customer service,Junior,Weekends only,Evening,Part-time,$31/hour,5,50.64
+21,Michael Rodriguez,Customer Service,Customer Service Agent,Customer service,Mid-level,Flexible,Evening,Part-time,$56/hour,10,90.95
+22,Ella Wilson,Marketing,Digital Marketing Specialist,"Digital marketing, Social media",Mid-level,Monday-Friday 9am-5pm,Night,Freelance,$60/hour,10,84.67
+23,Daniel Martinez,Sales,Sales Representative,Negotiation,Mid-level,Flexible,Day,Part-time,$58/hour,10,89.5
+24,Scarlett Anderson,Sales,Sales Manager,"Customer communication, Negotiation, Salesforce",Mid-level,Weekends only,Evening,Full-time,$47/hour,8,80.27
+25,Matthew Taylor,Finance,Financial Analyst,"Excel, Accounting",Junior,Flexible,Night,Contract,$120/hour,10,93.07
+26,Luna Thomas,Marketing,Digital Marketing Specialist,"Social media, Digital marketing, Content creation",Senior,Part-time,Day,Part-time,$88/hour,5,52.82
+27,Aiden Moore,Customer Service,Customer Service Agent,"Phone support, Customer service",Entry-level,Flexible,Night,Part-time,$21/hour,10,80.64
+28,Chloe Jackson,HR,HR Generalist,"Recruitment, Onboarding, Employee relations",Entry-level,Weekends only,Evening,Part-time,$18/hour,10,84.12
+29,Henry White,Sales,Sales Representative,"Negotiation, Salesforce",Senior,Monday-Friday 9am-5pm,Evening,Full-time,$67/hour,8,82.71
+30,Grace Harris,Sales,Sales Manager,"Negotiation, Customer communication, Salesforce",Senior,Weekends only,Day,Full-time,$83/hour,10,81.86
+31,Jackson Martin,Customer Service,Customer Service Agent,"Customer service, Email etiquette",Entry-level,Flexible,Night,Full-time,$18/hour,5,62.48
+32,Victoria Thompson,Engineering,QA Engineer,"SQL, Java, Python",Entry-level,Weekends only,Evening,Contract,$94/hour,8,78.76
+33,Sebastian Garcia,Operations,Operations Manager,"Project management, Logistics, Process improvement",Junior,Part-time,Day,Full-time,$30/hour,8,86.15
+34,Riley Davis,Operations,Operations Manager,"Logistics, Process improvement, Project management",Entry-level,Flexible,Night,Contract,$73/hour,5,68.3
+35,Owen Rodriguez,Sales,Sales Manager,"Negotiation, Salesforce, Customer communication",Mid-level,Flexible,Day,Full-time,$40/hour,5,59.68
+36,Penelope Wilson,Engineering,Software Engineer,"Java, SQL, Python",Junior,Flexible,Day,Part-time,$26/hour,10,90.02
+37,Samuel Martinez,Sales,Sales Representative,"Salesforce, Negotiation, Customer communication",Junior,Monday-Friday 9am-5pm,Evening,Freelance,$83/hour,8,76.5
+38,Hazel Anderson,Engineering,Data Engineer,SQL,Entry-level,Part-time,Evening,Full-time,$18/hour,8,87.39
+39,David Taylor,Marketing,Content Creator,"Content creation, Social media",Junior,Flexible,Day,Contract,$109/hour,8,70.81
+40,Aubrey Thomas,Engineering,Data Engineer,"SQL, Python",Mid-level,Flexible,Day,Contract,$65/hour,10,80.82
+41,Joseph Moore,Customer Service,Customer Service Agent,"Customer service, Phone support, Email etiquette",Senior,Monday-Friday 9am-5pm,Night,Contract,$84/hour,10,93.15
+42,Eleanor Jackson,HR,Recruiter,"Recruitment, Employee relations",Mid-level,Part-time,Day,Contract,$109/hour,8,72.11
+43,John White,HR,HR Generalist,"Recruitment, Onboarding",Junior,Part-time,Day,Full-time,$27/hour,10,91.73
+44,Lily Harris,Operations,Project Manager,"Process improvement, Logistics, Project management",Entry-level,Monday-Friday 9am-5pm,Night,Part-time,$24/hour,8,88.49
+45,Carter Martin,HR,HR Generalist,"Recruitment, Employee relations, Onboarding",Senior,Monday-Friday 9am-5pm,Night,Full-time,$80/hour,8,80.3
+46,Addison Thompson,Engineering,Software Engineer,"Python, SQL, Java",Mid-level,Flexible,Evening,Contract,$141/hour,10,94.75
+47,Luke Garcia,Sales,Sales Representative,"Salesforce, Negotiation, Customer communication",Junior,Weekends only,Night,Freelance,$131/hour,8,74.25
+48,Natalie Davis,Engineering,Data Engineer,Python,Senior,Monday-Friday 9am-5pm,Day,Full-time,$89/hour,10,81.7
+49,Grayson Rodriguez,Customer Service,Customer Service Agent,"Customer service, Email etiquette, Phone support",Junior,Monday-Friday 9am-5pm,Night,Freelance,$77/hour,10,87.5
+50,Hannah Wilson,Finance,Accountant,"Excel, Financial modeling, Accounting",Entry-level,Part-time,Night,Contract,$148/hour,10,80.4
+51,Dylan Martinez,Operations,Operations Manager,"Logistics, Project management",Mid-level,Flexible,Evening,Freelance,$55/hour,5,55.38
+52,Brooklyn Anderson,Marketing,Content Creator,Social media,Entry-level,Part-time,Day,Contract,$150/hour,5,64.21
+53,Gabriel Taylor,Customer Service,Customer Service Agent,"Customer service, Email etiquette",Entry-level,Part-time,Evening,Full-time,$19/hour,5,54.3
+54,Zoey Thomas,HR,Recruiter,"Recruitment, Employee relations",Junior,Part-time,Evening,Freelance,$118/hour,10,90.62
+55,Isaac Moore,Customer Service,Customer Support Specialist,"Email etiquette, Phone support",Entry-level,Monday-Friday 9am-5pm,Day,Contract,$130/hour,5,65.07
+56,Leah Jackson,Marketing,Content Creator,Social media,Entry-level,Part-time,Evening,Contract,$132/hour,8,74.54
+57,Ryan White,HR,HR Generalist,"Recruitment, Employee relations",Senior,Monday-Friday 9am-5pm,Night,Freelance,$57/hour,10,91.95
+58,Madeline Harris,Engineering,QA Engineer,"Python, Java",Entry-level,Monday-Friday 9am-5pm,Night,Part-time,$24/hour,5,55.51
+59,Julian Martin,Sales,Sales Representative,Customer communication,Entry-level,Part-time,Night,Part-time,$24/hour,8,88.84
+60,Savannah Thompson,Engineering,QA Engineer,"SQL, Python, Java",Entry-level,Monday-Friday 9am-5pm,Day,Part-time,$22/hour,8,79.77
+61,Wyatt Garcia,Sales,Account Executive,"Salesforce, Negotiation",Senior,Flexible,Night,Contract,$98/hour,8,84.64
+62,Autumn Davis,Customer Service,Customer Support Specialist,Email etiquette,Junior,Monday-Friday 9am-5pm,Night,Freelance,$72/hour,8,78.7
+63,Miles Rodriguez,Finance,Accountant,"Financial modeling, Accounting",Entry-level,Monday-Friday 9am-5pm,Evening,Part-time,$20/hour,5,72.25
+64,Violet Wilson,Sales,Sales Representative,"Negotiation, Customer communication, Salesforce",Junior,Flexible,Evening,Freelance,$87/hour,10,94.16
+65,Nathan Martinez,Customer Service,Customer Support Specialist,Customer service,Senior,Weekends only,Night,Freelance,$65/hour,10,80.46
+66,Claire Anderson,Finance,Accountant,"Accounting, Excel",Mid-level,Monday-Friday 9am-5pm,Day,Freelance,$70/hour,8,71.3
+67,Caleb Taylor,HR,Recruiter,Employee relations,Junior,Flexible,Night,Part-time,$29/hour,10,85.6
+68,Skylar Thomas,Finance,Accountant,Accounting,Senior,Part-time,Evening,Part-time,$78/hour,10,86.57
+69,Cameron Moore,Marketing,Content Creator,Content creation,Junior,Flexible,Day,Full-time,$36/hour,8,73.6
+70,Aurora Jackson,Finance,Financial Analyst,Financial modeling,Entry-level,Monday-Friday 9am-5pm,Night,Contract,$101/hour,5,73.45
+71,Jack White,Engineering,Data Engineer,"Java, SQL, Python",Entry-level,Flexible,Day,Contract,$81/hour,8,88.39
+72,Hunter Martin,HR,Recruiter,"Recruitment, Onboarding, Employee relations",Entry-level,Part-time,Evening,Full-time,$21/hour,8,74.19
+73,Levi Garcia,Sales,Sales Manager,"Salesforce, Negotiation",Mid-level,Part-time,Day,Part-time,$42/hour,10,87.64
+74,Christian Rodriguez,Finance,Accountant,"Excel, Accounting, Financial modeling",Senior,Weekends only,Evening,Full-time,$90/hour,8,82.85
+75,Jaxon Martinez,HR,HR Generalist,Onboarding,Junior,Flexible,Evening,Full-time,$29/hour,5,69.14
+76,Landon Taylor,Operations,Project Manager,Process improvement,Entry-level,Part-time,Night,Part-time,$21/hour,10,84.54
+77,Jonathan Moore,Operations,Operations Manager,"Logistics, Project management, Process improvement",Entry-level,Part-time,Day,Full-time,$23/hour,8,79.9
+78,Brayden White,Sales,Sales Representative,"Salesforce, Customer communication, Negotiation",Entry-level,Flexible,Day,Freelance,$96/hour,10,90.66
+79,Eli Martin,Marketing,Digital Marketing Specialist,"Digital marketing, Content creation, Social media",Entry-level,Flexible,Day,Part-time,$20/hour,10,84.74
+80,Connor Garcia,Sales,Sales Manager,"Negotiation, Customer communication",Entry-level,Weekends only,Night,Contract,$126/hour,8,86.01
+81,Lincoln Rodriguez,Operations,Operations Manager,"Project management, Logistics",Entry-level,Part-time,Evening,Full-time,$24/hour,5,70.69
+82,Santiago Martinez,Marketing,Content Creator,"Content creation, Digital marketing, Social media",Entry-level,Part-time,Day,Contract,$140/hour,8,78.4
+83,Charles Taylor,Engineering,Software Engineer,"Python, SQL",Senior,Monday-Friday 9am-5pm,Evening,Freelance,$76/hour,8,83.12
+84,Thomas Moore,HR,HR Generalist,Employee relations,Entry-level,Monday-Friday 9am-5pm,Day,Freelance,$96/hour,8,86.94
+85,Aaron White,HR,Recruiter,"Employee relations, Onboarding",Entry-level,Flexible,Evening,Part-time,$20/hour,10,87.39
+86,Asher Martin,Customer Service,Customer Support Specialist,Email etiquette,Senior,Flexible,Night,Contract,$124/hour,8,85.31
+87,Hudson Garcia,Customer Service,Customer Service Agent,"Phone support, Email etiquette, Customer service",Mid-level,Flexible,Night,Part-time,$40/hour,8,72.97
+88,Leo Rodriguez,Customer Service,Customer Support Specialist,"Customer service, Email etiquette",Junior,Part-time,Night,Contract,$63/hour,8,81.97
+89,Theodore Martinez,Customer Service,Customer Support Specialist,"Customer service, Phone support",Mid-level,Part-time,Day,Freelance,$64/hour,10,92.58
+90,Silas Taylor,Operations,Project Manager,"Process improvement, Logistics, Project management",Entry-level,Weekends only,Night,Full-time,$21/hour,10,83.21
+91,Jeremiah Moore,Marketing,Content Creator,"Content creation, Social media",Entry-level,Flexible,Evening,Part-time,$16/hour,10,93.29
+92,Paul White,Sales,Account Executive,"Negotiation, Customer communication",Entry-level,Flexible,Night,Part-time,$24/hour,8,72.39
+93,Griffin Martin,Sales,Sales Manager,Customer communication,Junior,Weekends only,Day,Freelance,$134/hour,8,75.67
+94,Adrian Garcia,Engineering,Software Engineer,Java,Entry-level,Part-time,Day,Part-time,$18/hour,5,60.42
+95,Owen Rodriguez,Engineering,Software Engineer,"Java, Python, SQL",Junior,Monday-Friday 9am-5pm,Night,Part-time,$28/hour,8,71.57
+96,Jordan Martinez,Operations,Operations Manager,"Logistics, Project management, Process improvement",Entry-level,Monday-Friday 9am-5pm,Evening,Contract,$110/hour,8,89.79
+97,Jose Taylor,Finance,Financial Analyst,"Excel, Accounting, Financial modeling",Mid-level,Weekends only,Evening,Freelance,$85/hour,10,92.71
+98,Edward Moore,Operations,Operations Manager,Logistics,Junior,Flexible,Day,Freelance,$100/hour,5,61.22
+99,Bryan White,Customer Service,Customer Support Specialist,Email etiquette,Entry-level,Monday-Friday 9am-5pm,Night,Contract,$145/hour,10,81.48
+100,Elijah Martin,Operations,Project Manager,"Project management, Logistics",Senior,Flexible,Day,Freelance,$139/hour,10,89.04
+101,Patrick Garcia,Customer Service,Customer Support Specialist,"Email etiquette, Customer service",Senior,Monday-Friday 9am-5pm,Night,Freelance,$86/hour,10,92.42
+102,Cameron Rodriguez,Engineering,Software Engineer,SQL,Entry-level,Weekends only,Night,Contract,$142/hour,5,70.58
+103,Timothy Martinez,Engineering,QA Engineer,"Python, SQL",Entry-level,Part-time,Evening,Part-time,$18/hour,5,70.33
+104,Adam Taylor,Sales,Sales Manager,"Salesforce, Customer communication",Senior,Flexible,Day,Part-time,$84/hour,8,81.41
+105,Sean Moore,Marketing,Digital Marketing Specialist,Digital marketing,Entry-level,Flexible,Day,Freelance,$123/hour,10,87.96
+106,Jason White,Customer Service,Customer Support Specialist,Customer service,Junior,Weekends only,Evening,Contract,$108/hour,10,90.09
+107,Jake Martin,HR,Recruiter,"Onboarding, Recruitment, Employee relations",Junior,Weekends only,Day,Full-time,$27/hour,10,86.58
+108,Nicolas Garcia,HR,HR Generalist,Recruitment,Junior,Monday-Friday 9am-5pm,Day,Contract,$120/hour,5,55.57
+109,Ayden Rodriguez,Engineering,QA Engineer,Python,Mid-level,Monday-Friday 9am-5pm,Night,Full-time,$57/hour,5,53.56
+110,Blake Martinez,HR,HR Generalist,Employee relations,Senior,Weekends only,Night,Contract,$130/hour,8,72.69
+111,Austin Taylor,Engineering,QA Engineer,"SQL, Python",Senior,Part-time,Evening,Freelance,$93/hour,10,81.04
+112,Dominic Moore,HR,Recruiter,"Recruitment, Onboarding",Entry-level,Weekends only,Evening,Contract,$116/hour,8,81.51
+113,Andrew White,Marketing,Marketing Manager,"Social media, Content creation",Senior,Part-time,Evening,Part-time,$62/hour,10,87.46
+114,Tristan Martin,Engineering,QA Engineer,Python,Entry-level,Weekends only,Evening,Full-time,$25/hour,8,71.52
+115,Luis Garcia,Finance,Accountant,Financial modeling,Mid-level,Part-time,Evening,Full-time,$47/hour,5,67.48
+116,Christopher Rodriguez,Operations,Project Manager,"Process improvement, Project management, Logistics",Entry-level,Flexible,Night,Part-time,$22/hour,5,62.61
+117,Gavin Martinez,Marketing,Marketing Manager,Digital marketing,Senior,Monday-Friday 9am-5pm,Night,Full-time,$78/hour,5,74.35
+118,Anthony Taylor,Marketing,Digital Marketing Specialist,"Content creation, Digital marketing",Mid-level,Flexible,Night,Part-time,$42/hour,5,75.0
+119,Kyle Moore,Customer Service,Customer Service Agent,Phone support,Mid-level,Flexible,Day,Contract,$124/hour,5,73.58
+120,Ian White,HR,HR Generalist,"Employee relations, Onboarding",Entry-level,Monday-Friday 9am-5pm,Night,Full-time,$17/hour,10,84.47
+121,Brandon Martin,Engineering,Data Engineer,SQL,Entry-level,Part-time,Day,Part-time,$21/hour,5,55.16
+122,Cole Garcia,Operations,Project Manager,"Process improvement, Project management",Mid-level,Monday-Friday 9am-5pm,Evening,Contract,$130/hour,8,88.5
+123,Julian Rodriguez,Operations,Project Manager,Project management,Entry-level,Weekends only,Night,Contract,$139/hour,5,58.95
+124,Carson Martinez,Engineering,Data Engineer,Python,Mid-level,Weekends only,Day,Full-time,$57/hour,10,85.9
+125,Alex Taylor,Sales,Account Executive,Customer communication,Junior,Part-time,Night,Full-time,$29/hour,8,83.33
+126,Eric Moore,Customer Service,Customer Support Specialist,Customer service,Mid-level,Weekends only,Evening,Part-time,$52/hour,5,65.28
+127,Devin White,Finance,Accountant,Financial modeling,Senior,Monday-Friday 9am-5pm,Evening,Part-time,$73/hour,10,87.0
+128,Maxwell Martin,Sales,Sales Representative,Salesforce,Entry-level,Weekends only,Evening,Part-time,$15/hour,8,82.61
+129,Xavier Garcia,Sales,Sales Representative,"Customer communication, Negotiation",Entry-level,Weekends only,Night,Full-time,$24/hour,8,71.0
+130,Brian Rodriguez,Finance,Accountant,"Excel, Financial modeling, Accounting",Senior,Monday-Friday 9am-5pm,Night,Contract,$87/hour,10,82.41
+131,Kevin Martinez,Operations,Project Manager,Project management,Junior,Part-time,Day,Part-time,$27/hour,8,80.24
+132,Enrique Taylor,Engineering,Software Engineer,"Java, Python",Mid-level,Monday-Friday 9am-5pm,Evening,Freelance,$67/hour,5,55.69
+133,Jorge Moore,Customer Service,Customer Support Specialist,Phone support,Junior,Weekends only,Evening,Freelance,$74/hour,8,77.4
+134,Israel White,Marketing,Digital Marketing Specialist,Digital marketing,Entry-level,Part-time,Night,Full-time,$16/hour,8,74.71
+135,Marcus Martin,Sales,Sales Manager,"Customer communication, Salesforce",Entry-level,Part-time,Night,Full-time,$20/hour,5,60.14
+136,Katherine Thompson,Marketing,Content Creator,Content creation,Senior,Monday-Friday 9am-5pm,Evening,Freelance,$81/hour,5,58.82
+137,Lucy Harris,Sales,Sales Representative,"Customer communication, Negotiation, Salesforce",Mid-level,Weekends only,Day,Full-time,$50/hour,5,65.48
+138,Stella Thompson,Marketing,Marketing Manager,Digital marketing,Mid-level,Flexible,Evening,Part-time,$52/hour,5,58.98
+139,Eliana Davis,Sales,Account Executive,"Salesforce, Negotiation",Entry-level,Monday-Friday 9am-5pm,Day,Part-time,$19/hour,5,56.19
+140,Everly Wilson,Finance,Accountant,"Financial modeling, Excel",Junior,Monday-Friday 9am-5pm,Night,Freelance,$145/hour,5,50.2
+141,Paisley Anderson,Finance,Financial Analyst,"Financial modeling, Accounting, Excel",Mid-level,Flexible,Day,Freelance,$115/hour,10,83.8
+142,Caroline Thomas,Sales,Sales Manager,"Salesforce, Customer communication, Negotiation",Junior,Part-time,Evening,Freelance,$147/hour,10,90.55
+143,Genesis Jackson,Operations,Operations Manager,Process improvement,Entry-level,Monday-Friday 9am-5pm,Day,Part-time,$20/hour,10,94.74
+144,Aaliyah Harris,Operations,Project Manager,"Logistics, Project management",Mid-level,Part-time,Evening,Part-time,$47/hour,5,74.59
+145,Alyssa Thompson,Sales,Sales Representative,"Customer communication, Negotiation",Junior,Weekends only,Evening,Freelance,$103/hour,10,81.54
+146,Kennedy Davis,Customer Service,Customer Support Specialist,Customer service,Mid-level,Flexible,Evening,Contract,$63/hour,8,74.95
+147,Ellie Wilson,Finance,Accountant,"Excel, Accounting, Financial modeling",Junior,Part-time,Night,Part-time,$26/hour,10,93.16
+148,Josephine Anderson,Sales,Account Executive,Negotiation,Entry-level,Weekends only,Night,Full-time,$18/hour,8,81.54
+149,Jasmine Thomas,Customer Service,Customer Service Agent,"Phone support, Customer service",Senior,Flexible,Night,Part-time,$74/hour,10,89.98
+150,Kaylee Jackson,Engineering,Data Engineer,"Python, Java",Entry-level,Flexible,Night,Contract,$51/hour,10,83.95
+151,Alexandra Harris,HR,HR Generalist,"Recruitment, Onboarding",Mid-level,Flexible,Night,Full-time,$52/hour,8,88.61
+152,Valerie Thompson,Finance,Accountant,"Financial modeling, Excel, Accounting",Entry-level,Flexible,Evening,Full-time,$18/hour,5,67.45
+153,Brielle Davis,Sales,Sales Representative,"Salesforce, Negotiation",Senior,Weekends only,Night,Freelance,$116/hour,8,83.42
+154,Delaney Wilson,Sales,Sales Representative,"Negotiation, Customer communication",Junior,Monday-Friday 9am-5pm,Night,Freelance,$51/hour,5,60.52
+155,Emerson Anderson,Finance,Accountant,Excel,Junior,Weekends only,Evening,Freelance,$137/hour,8,85.81
+156,Annabelle Thomas,Customer Service,Customer Service Agent,"Email etiquette, Phone support",Entry-level,Weekends only,Night,Freelance,$89/hour,8,82.49
+157,Kimberly Jackson,Operations,Operations Manager,"Project management, Logistics",Entry-level,Monday-Friday 9am-5pm,Evening,Full-time,$22/hour,5,64.46
+158,Elsie Harris,Customer Service,Customer Service Agent,"Phone support, Email etiquette, Customer service",Entry-level,Weekends only,Day,Full-time,$17/hour,8,70.28
+159,Kaitlyn Thompson,Marketing,Marketing Manager,Digital marketing,Senior,Part-time,Day,Contract,$65/hour,5,57.11
+160,Reagan Davis,Customer Service,Customer Service Agent,"Customer service, Email etiquette",Entry-level,Part-time,Day,Contract,$58/hour,10,88.76
+161,Mackenzie Wilson,Marketing,Digital Marketing Specialist,Content creation,Entry-level,Part-time,Day,Contract,$108/hour,10,82.32
+162,Sarah Anderson,HR,HR Generalist,Recruitment,Mid-level,Monday-Friday 9am-5pm,Day,Contract,$78/hour,8,76.26
+163,Katherine Thomas,Operations,Project Manager,Project management,Junior,Flexible,Day,Contract,$101/hour,10,81.19
+164,Alexis Jackson,Marketing,Digital Marketing Specialist,"Content creation, Social media",Entry-level,Weekends only,Night,Part-time,$20/hour,10,87.18
+165,Isabelle Harris,HR,Recruiter,Employee relations,Senior,Flexible,Evening,Contract,$114/hour,10,88.58
+166,Jessica Thompson,Marketing,Marketing Manager,"Digital marketing, Content creation",Entry-level,Monday-Friday 9am-5pm,Evening,Contract,$92/hour,8,77.93
+167,Ashley Davis,HR,HR Generalist,Onboarding,Mid-level,Weekends only,Night,Part-time,$51/hour,10,86.41
+168,Amelia Wilson,Engineering,Data Engineer,"Python, SQL, Java",Senior,Monday-Friday 9am-5pm,Evening,Freelance,$148/hour,5,56.1
+169,Alexa Anderson,HR,Recruiter,Employee relations,Mid-level,Part-time,Evening,Full-time,$60/hour,8,73.86
+170,Samantha Thomas,Finance,Accountant,Financial modeling,Entry-level,Weekends only,Day,Freelance,$149/hour,5,70.08
+171,Stephanie Jackson,Engineering,QA Engineer,"SQL, Python",Mid-level,Part-time,Day,Full-time,$45/hour,5,55.93
+172,Lauren Harris,Marketing,Digital Marketing Specialist,Social media,Senior,Part-time,Evening,Contract,$148/hour,5,52.38
+173,Nicole Thompson,Marketing,Content Creator,"Social media, Digital marketing",Senior,Weekends only,Day,Contract,$130/hour,10,83.58
+174,Megan Davis,Sales,Account Executive,"Customer communication, Negotiation",Entry-level,Part-time,Night,Full-time,$23/hour,10,82.86
+175,Evelyn Wilson,Customer Service,Customer Service Agent,"Phone support, Email etiquette, Customer service",Mid-level,Flexible,Evening,Full-time,$57/hour,5,52.65
+176,Rachel Anderson,Operations,Project Manager,Process improvement,Mid-level,Weekends only,Night,Part-time,$60/hour,8,81.49
+177,Michelle Thomas,Customer Service,Customer Support Specialist,Email etiquette,Senior,Weekends only,Evening,Part-time,$100/hour,8,71.59
+178,Jennifer Jackson,Sales,Sales Representative,Customer communication,Mid-level,Flexible,Night,Part-time,$50/hour,10,83.73
+179,Chelsea Harris,Marketing,Digital Marketing Specialist,"Social media, Digital marketing",Mid-level,Monday-Friday 9am-5pm,Night,Contract,$78/hour,5,54.99
+180,Amanda Thompson,Finance,Accountant,"Excel, Accounting, Financial modeling",Junior,Monday-Friday 9am-5pm,Day,Contract,$137/hour,10,94.33
+181,Melissa Davis,Engineering,Software Engineer,SQL,Entry-level,Part-time,Night,Part-time,$19/hour,10,81.46
+182,Brianna Wilson,Engineering,QA Engineer,"SQL, Python, Java",Junior,Flexible,Day,Contract,$60/hour,8,80.1
+183,Emily Anderson,Engineering,Data Engineer,"Java, Python, SQL",Junior,Part-time,Night,Contract,$116/hour,5,74.56
+184,Laura Thomas,Operations,Operations Manager,Logistics,Entry-level,Weekends only,Evening,Contract,$68/hour,10,93.12
+185,Rebecca Jackson,Marketing,Digital Marketing Specialist,"Digital marketing, Social media, Content creation",Junior,Weekends only,Day,Contract,$138/hour,8,86.74
+186,Katelyn Harris,Sales,Account Executive,Salesforce,Mid-level,Monday-Friday 9am-5pm,Day,Part-time,$41/hour,5,56.86
+187,Madeline Thompson,Customer Service,Customer Support Specialist,"Customer service, Email etiquette, Phone support",Junior,Flexible,Evening,Freelance,$80/hour,8,71.9
+188,Destiny Davis,Marketing,Digital Marketing Specialist,"Content creation, Digital marketing",Mid-level,Monday-Friday 9am-5pm,Night,Contract,$68/hour,10,89.99
+189,Morgan Wilson,Engineering,QA Engineer,"Java, SQL, Python",Junior,Weekends only,Evening,Full-time,$30/hour,10,80.77
+190,Elena Anderson,Marketing,Marketing Manager,"Digital marketing, Content creation, Social media",Mid-level,Weekends only,Day,Full-time,$44/hour,10,81.19
+191,Jasmine Thomas,HR,HR Generalist,Recruitment,Mid-level,Monday-Friday 9am-5pm,Day,Freelance,$138/hour,10,83.97
+192,Bailey Jackson,Finance,Accountant,"Excel, Financial modeling",Junior,Weekends only,Night,Full-time,$25/hour,10,81.93
+193,Maria Harris,Operations,Project Manager,"Project management, Logistics",Entry-level,Weekends only,Night,Full-time,$23/hour,5,50.8
+194,Sydney Thompson,Sales,Account Executive,"Customer communication, Salesforce",Mid-level,Part-time,Night,Full-time,$48/hour,5,56.11
+195,Allison Davis,Sales,Sales Manager,Negotiation,Junior,Monday-Friday 9am-5pm,Evening,Freelance,$118/hour,5,72.63
+196,Kaylee Wilson,Finance,Accountant,Excel,Entry-level,Flexible,Evening,Part-time,$22/hour,10,88.17
+197,Angelina Anderson,Customer Service,Customer Support Specialist,"Customer service, Phone support",Junior,Flexible,Evening,Full-time,$28/hour,5,62.3
+198,Trinity Thomas,Finance,Financial Analyst,"Accounting, Financial modeling, Excel",Junior,Weekends only,Evening,Contract,$75/hour,5,71.49
+199,Mya Jackson,Finance,Accountant,"Financial modeling, Accounting",Senior,Weekends only,Night,Full-time,$71/hour,10,83.07
+200,Kylie Harris,HR,Recruiter,Employee relations,Mid-level,Weekends only,Day,Freelance,$123/hour,8,73.83
